@@ -1,0 +1,8 @@
+ru/akaleganov/weather/services/WeatherService.java
+ ru.akaleganov.weather.services.WeatherService
+ru/akaleganov/weather/model/Weather.java
+ ru.akaleganov.weather.model.Weather
+ru/akaleganov/weather/Main.java
+ ru.akaleganov.weather.Main
+ru/akaleganov/weather/web/rest/WeatherControl.java
+ ru.akaleganov.weather.web.rest.WeatherControl
